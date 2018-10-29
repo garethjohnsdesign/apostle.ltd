@@ -1,0 +1,86 @@
+---
+title: Apostle Studio
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: false
+  team:
+    title: Team
+    output: false
+  uploads:
+    title: Uploads
+    output: false
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    feature-image: 
+    author: 
+    layout: post
+    permalink: "/news/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    intro: 
+    layout: page
+- scope:
+    path: ''
+    type: resources
+  values:
+    file: 
+    author: 
+    thumbnail-image: 
+url: https://www.apostle.studio
+description: Our purpose as a consultancy is to help brands and people discover what drives them and use it to inform everything they do.
+permalink: pretty
+exclude:
+- bower.json
+- Gemfile.lock
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+- assets/scss
+plugins:
+- jekyll-paginate-v2
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jekyll/imgix
+markdown: kramdown
+kramdown:
+  auto_ids: false
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+colophon: http://garethjohnsdesign.com
+company: Apostle
+email: info@apostle.studio
+analytics: 
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%b %Y"
+future: true
+social:
+  email: mailto:someone@example.com?Subject=Hello%20again
+  twitter: https://twitter.com/apostlestudio
+  medium: https://medium.com/apostlestudio
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
+pagination:
+  enabled: false
+autopages:
+  enabled: false
+imgix:
+  source: apostle.imgix.net

@@ -1,0 +1,45 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+<!-- Head -->
+{% include head.html %}
+<!-- End Head -->
+
+<body class="{{page.layout | slugify}}">
+
+<!-- Off Canvas Navigation -->
+<div class="off-canvas position-right" id="offCanvas" data-off-canvas data-transition="push" data-close-on-click="true">
+{% include offcanvas.html %}
+</div>
+<!-- End Off Canvas Navigation -->
+
+<div class="off-canvas-content {{page.layout | slugify}}" style="height: 100vh" data-off-canvas-content>
+
+  <div class="grid-y align-justify height-100">
+  <div class="shrink cell">
+  <!-- Header -->
+  {% include header.html %}
+  <!-- End Header -->
+  </div>
+  
+  <div class="shrink cell padding-1">
+  <!-- Content -->
+  {{content}}
+  <!-- End Content -->
+  </div>
+  
+  <div class="shrink cell">
+  <!-- Footer -->
+  {% include footer.html %}
+  <!-- End Footer-->
+  </div>
+
+</div>
+
+</body>
+
+</html>
