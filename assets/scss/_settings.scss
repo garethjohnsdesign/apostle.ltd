@@ -81,7 +81,7 @@ $foundation-palette: (
 );
 */
 $foundation-palette: (
-  primary: #dcfa06,
+  primary: #0000c1,
   secondary: #767676,
   success: #3adb76,
   warning: #ffae00,
@@ -90,12 +90,11 @@ $foundation-palette: (
 $light-gray: #e6e6e6;
 $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
-$black: #0a0a0a;
+// $black: #0a0a0a;
+$black: #252529;
 $white: #fefefe;
-// $body-background: $white;
-$body-background: $black;
-// $body-font-color: $black;
-$body-font-color: $white;
+$body-background: $white;
+$body-font-color: $black;
 // $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
 $body-font-family: $sans-regular;
 $body-antialiased: true;
@@ -214,7 +213,7 @@ $code-background: $light-gray;
 $code-border: 1px solid $medium-gray;
 $code-padding: rem-calc(2 5 1);
 $anchor-color: $primary-color;
-$anchor-color: $white;
+$anchor-color: $black;
 // $anchor-color-hover: scale-color($anchor-color, $lightness: -14%);
 $anchor-color-hover: scale-color($primary-color, $lightness: -14%);
 $anchor-text-decoration: none;
@@ -547,14 +546,19 @@ $meter-fill-bad: $alert-color;
 // 25. Off-canvas
 // --------------
 
+/*
+$offcanvas-sizes: (
+  small: 250px,
+);
+*/
 $offcanvas-sizes: (
   small: 250px,
 );
 $offcanvas-vertical-sizes: (
   small: 250px,
 );
-$offcanvas-background: $light-gray;
-$offcanvas-background: $black;
+// $offcanvas-background: $light-gray;
+$offcanvas-background: $white;
 $offcanvas-shadow: 0 0 10px rgba($black, 0.7);
 $offcanvas-inner-shadow-size: 20px;
 $offcanvas-inner-shadow-color: rgba($black, 0.25);

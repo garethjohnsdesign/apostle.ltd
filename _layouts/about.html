@@ -6,8 +6,8 @@ layout: default
   <div class="grid-x grid-padding-x">
   	<div class="small-12 cell">
       {% for detail in page.details %}
-        <div class="margin-bottom-3" data-aos="fade-in">
-        <h4 class="secondary-color margin-bottom-1">{{detail.title}}</h4>
+        <div class="margin-bottom-3">
+        <h4 class="serif-regular">{{detail.title}}</h4>
         {{detail.text | markdownify}}
         </div>
       {% endfor %}

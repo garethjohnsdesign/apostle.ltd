@@ -191,6 +191,39 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/background-marble-black.jpg": {
+		"ft": 16384,
+		"iS": 67225,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/background-marble-black.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/background-marble-white.jpg": {
+		"ft": 16384,
+		"iS": 413698,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/background-marble-white.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/background-marble.jpg": {
+		"ft": 16384,
+		"iS": 365905,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/background-marble.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/background.jpg": {
 		"ft": 16384,
 		"iS": 222536,
@@ -254,7 +287,7 @@
 		},
 	"/assets/favicons/android-chrome-192x192.png": {
 		"ft": 32768,
-		"iS": 2570,
+		"iS": 2791,
 		"oA": 0,
 		"oAP": "/assets/favicons/android-chrome-192x192.png",
 		"oF": 0,
@@ -265,7 +298,7 @@
 		},
 	"/assets/favicons/android-chrome-512x512.png": {
 		"ft": 32768,
-		"iS": 7421,
+		"iS": 6449,
 		"oA": 0,
 		"oAP": "/assets/favicons/android-chrome-512x512.png",
 		"oF": 0,
@@ -276,7 +309,7 @@
 		},
 	"/assets/favicons/apple-touch-icon.png": {
 		"ft": 32768,
-		"iS": 1211,
+		"iS": 2829,
 		"oA": 0,
 		"oAP": "/assets/favicons/apple-touch-icon.png",
 		"oF": 0,
@@ -294,7 +327,7 @@
 		},
 	"/assets/favicons/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 546,
+		"iS": 973,
 		"oA": 0,
 		"oAP": "/assets/favicons/favicon-16x16.png",
 		"oF": 0,
@@ -305,7 +338,7 @@
 		},
 	"/assets/favicons/favicon-32x32.png": {
 		"ft": 32768,
-		"iS": 664,
+		"iS": 1410,
 		"oA": 0,
 		"oAP": "/assets/favicons/favicon-32x32.png",
 		"oF": 0,
@@ -321,55 +354,11 @@
 		"oAP": "/assets/favicons/favicon.ico",
 		"oF": 0
 		},
-	"/assets/favicons/mstile-144x144.png": {
-		"ft": 32768,
-		"iS": 1798,
-		"oA": 0,
-		"oAP": "/assets/favicons/mstile-144x144.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/assets/favicons/mstile-150x150.png": {
 		"ft": 32768,
-		"iS": 1678,
+		"iS": 3401,
 		"oA": 0,
 		"oAP": "/assets/favicons/mstile-150x150.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/assets/favicons/mstile-310x150.png": {
-		"ft": 32768,
-		"iS": 2033,
-		"oA": 0,
-		"oAP": "/assets/favicons/mstile-310x150.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/assets/favicons/mstile-310x310.png": {
-		"ft": 32768,
-		"iS": 3939,
-		"oA": 0,
-		"oAP": "/assets/favicons/mstile-310x310.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/assets/favicons/mstile-70x70.png": {
-		"ft": 32768,
-		"iS": 1230,
-		"oA": 0,
-		"oAP": "/assets/favicons/mstile-70x70.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -393,137 +382,32 @@
 		"oAP": "/assets/favicons/site.webmanifest",
 		"oF": 0
 		},
-	"/assets/fonts/atlas-grotesk-bold.ttf": {
+	"/assets/fonts/gt-walsheim-pro-light.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/atlas-grotesk-bold.ttf",
+		"oAP": "/assets/fonts/gt-walsheim-pro-light.woff",
 		"oF": 0
 		},
-	"/assets/fonts/atlas-grotesk-bold.woff": {
+	"/assets/fonts/gt-walsheim-pro-light.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/atlas-grotesk-bold.woff",
+		"oAP": "/assets/fonts/gt-walsheim-pro-light.woff2",
 		"oF": 0
 		},
-	"/assets/fonts/atlas-grotesk-bold.woff2": {
+	"/assets/fonts/untitled-sans-regular.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/atlas-grotesk-bold.woff2",
+		"oAP": "/assets/fonts/untitled-sans-regular.woff",
 		"oF": 0
 		},
-	"/assets/fonts/atlas-grotesk-regular.ttf": {
+	"/assets/fonts/untitled-sans-regular.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/atlas-grotesk-regular.ttf",
-		"oF": 0
-		},
-	"/assets/fonts/atlas-grotesk-regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/atlas-grotesk-regular.woff",
-		"oF": 0
-		},
-	"/assets/fonts/atlas-grotesk-regular.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/atlas-grotesk-regular.woff2",
-		"oF": 0
-		},
-	"/assets/fonts/basis-grotesque-mono.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/basis-grotesque-mono.woff2",
-		"oF": 0
-		},
-	"/assets/fonts/basis-grotesque-regular.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/basis-grotesque-regular.woff2",
-		"oF": 0
-		},
-	"/assets/fonts/gallery.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/gallery.woff",
-		"oF": 0
-		},
-	"/assets/fonts/gallery.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/gallery.woff2",
-		"oF": 0
-		},
-	"/assets/fonts/publico-bold.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/publico-bold.ttf",
-		"oF": 0
-		},
-	"/assets/fonts/publico-bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/publico-bold.woff",
-		"oF": 0
-		},
-	"/assets/fonts/publico-bold.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/publico-bold.woff2",
-		"oF": 0
-		},
-	"/assets/fonts/publico-text-italic.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/publico-text-italic.ttf",
-		"oF": 0
-		},
-	"/assets/fonts/publico-text-italic.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/publico-text-italic.woff",
-		"oF": 0
-		},
-	"/assets/fonts/publico-text-italic.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/publico-text-italic.woff2",
-		"oF": 0
-		},
-	"/assets/fonts/publico-text-roman.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/publico-text-roman.ttf",
-		"oF": 0
-		},
-	"/assets/fonts/publico-text-roman.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/publico-text-roman.woff",
-		"oF": 0
-		},
-	"/assets/fonts/publico-text-roman.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/publico-text-roman.woff2",
+		"oAP": "/assets/fonts/untitled-sans-regular.woff2",
 		"oF": 0
 		},
 	"/assets/icons/logo.svg": {
@@ -552,8 +436,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/og-image.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},

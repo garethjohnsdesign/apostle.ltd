@@ -39,8 +39,12 @@ body {
 }
 
 .home { 
-  background: url(/uploads/background-doutone.jpg) no-repeat top center fixed; 
-  background-size: cover;
+//   background: url(/uploads/background-marble-white.jpg) no-repeat top center fixed; 
+//   background-size: cover;
+/*
+@include links ($white, $primary-color)
+background-color: #252529;
+*/
 }
 
 
