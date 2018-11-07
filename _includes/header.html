@@ -12,10 +12,10 @@
 
 {% for entry in site.data.navigation %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
-<div class="grid-x grid-padding-x grid-padding-y padding-bottom-2 align-center">
+<div class="grid-x grid-padding-y padding-bottom-2 align-center">
 
   <div class="shrink cell">
-      <ul class="dropdown menu align-middle text-uppercase" data-dropdown-menu>
+      <ul class="dropdown menu align-center text-uppercase" data-dropdown-menu>
         {% for entry in site.data.navigation%}
         {% if entry.url == current_page %}
         {% assign current = ' class="active"' %}
