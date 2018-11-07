@@ -70,6 +70,8 @@ date_format: "%b %Y"
 future: true
 social:
   email: mailto:info@apostle.ltd
+  twitter: https://twitter.com/apostleltd
+  instagram: https://www.instagram.com/apostleltd
 compress_html:
   comments:
   - "<!-- "

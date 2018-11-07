@@ -39,7 +39,7 @@ body {
 }
 
 .home { 
-  background: url(/uploads/pygmalion-and-galatea.jpg) no-repeat center center; 
+  background: url(/uploads/pygmalion-and-galatea.jpg) no-repeat center 20%; 
   background-size: cover;
   @include links ($white, $dark-gray)
 }
@@ -138,7 +138,7 @@ i, cite, em, var, address, dfn {
 
 p {
   a {
-    border-bottom: 1px solid get-color(primary);
+    border-bottom: 1px solid $white;
     transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
     &:hover {
       border-bottom: 1px solid transparent;   
