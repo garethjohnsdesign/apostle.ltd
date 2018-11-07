@@ -7,15 +7,18 @@ layout: default
   <div class="grid-x grid-padding-x small-up-1 medium-up-2 large-up-3 align-center">
      {% for detail in page.details %}
       <div class="cell margin-bottom-2 text-center" data-aos="fade-in">
-        <div class="margin-bottom-1"><h4>{{detail.title}}</h4></div>
+        <div class="margin-bottom-1"><h3>{{detail.title}}</h3></div>
         {{detail.text | markdownify}}
       </div>
       {% endfor %}
-      
-    <div class="cell" data-aos="fade-in">
+
+  </div>
+
+<div class="grid-x grid-padding-x align-center">
+    <div class="small-12 medium-6 cell text-center" data-aos="fade-in">
     
     <!-- Signup -->  
-    <div class="margin-bottom-1 text-center"><h4>Sign up for news</h4></div>
+    <div class="margin-bottom-1 text-center"><h3>Sign up for news</h3></div>
       <form action="https://ltd.us19.list-manage.com/subscribe/post?u=e781af2418b9b222897ab98dc&amp;id=def3f9fcf7" method="post" target="_blank" novalidate="">
   
         <div class="input-group">
@@ -27,9 +30,21 @@ layout: default
         </div>
       
       </form>
+
+<small>By clicking the Submit button below you are agreeing to receive email marketing communications from Apostle from time to time. We will not share your details with any 3rd parties. Please review our Privacy Policy for more information.</small>
+
     </div>
   
-  <!-- End Signup -->    
+  <!-- End Signup -->  
+  </div> 
 
-  </div>
+<div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 medium-6 cell text-center" data-aos="fade-in">
+      <ul class="menu align-center">
+        <li><a href="/terms/">Terms + Conditions</a></li>
+        <li><a href="/privacy/">Privacy</a></li>
+      </ul>
+    </div>
+</div> 
+
 </div>

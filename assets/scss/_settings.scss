@@ -179,23 +179,23 @@ $header-styles: (
     'h1': ('font-size': 72, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h2': ('font-size': 28, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h3': ('font-size': 24, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h4': ('font-size': 24, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h4': ('font-size': 24, 'line-height': $header-lineheight, 'margin-top': 2rem, 'margin-bottom': $header-margin-bottom),
     'h5': ('font-size': 17, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h6': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom)
   ),
   'medium': (
     'h1': ('font-size': 96, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': 1rem),
     'h2': ('font-size': 40, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h3': ('font-size': 31, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h4': ('font-size': 25, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h3': ('font-size': 28, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h4': ('font-size': 25, 'line-height': $header-lineheight, 'margin-top': 3rem, 'margin-bottom': $header-margin-bottom),
     'h5': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h6': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom)
   ),
   'large': (
     'h1': ('font-size': 120, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': 1rem),
     'h2': ('font-size': 40, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h3': ('font-size': 31, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h4': ('font-size': 25, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h3': ('font-size': 28, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h4': ('font-size': 25, 'line-height': $header-lineheight, 'margin-top': 3rem, 'margin-bottom': $header-margin-bottom),
     'h5': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h6': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom)
   ),
