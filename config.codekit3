@@ -345,6 +345,34 @@
 		"oAP": "/assets/favicons/site.webmanifest",
 		"oF": 0
 		},
+	"/assets/fonts/futura-std-book.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/futura-std-book.woff",
+		"oF": 0
+		},
+	"/assets/fonts/futura-std-book.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/futura-std-book.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/futura-std-heavy.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/futura-std-heavy.woff",
+		"oF": 0
+		},
+	"/assets/fonts/futura-std-heavy.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/futura-std-heavy.woff2",
+		"oF": 0
+		},
 	"/assets/fonts/gt-walsheim-pro-light.woff": {
 		"cB": 0,
 		"ft": 8192,
@@ -357,20 +385,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/assets/fonts/gt-walsheim-pro-light.woff2",
-		"oF": 0
-		},
-	"/assets/fonts/untitled-sans-regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/untitled-sans-regular.woff",
-		"oF": 0
-		},
-	"/assets/fonts/untitled-sans-regular.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/untitled-sans-regular.woff2",
 		"oF": 0
 		},
 	"/assets/icons/logo.svg": {

@@ -1,12 +1,22 @@
 @font-face {
-  font-family: 'Untitled Sans Regular';
+  font-family: 'Futura Std Book';
   src: 
-  url('../fonts/untitled-sans-regular.woff2') format('woff2'), 
-  url('../fonts/untitled-sans-regular.woff') format('woff');
+  url('../fonts/futura-std-book.woff2') format('woff2'), 
+  url('../fonts/futura-std-book.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'Futura Std Heavy';
+  src: 
+  url('../fonts/futura-std-heavy.woff2') format('woff2'), 
+  url('../fonts/futura-std-heavy.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*
 @font-face {
   font-family: 'GT Walshiem Pro Light';
   src: 
@@ -15,3 +25,4 @@
   font-weight: normal;
   font-style: normal;
 }
+*/
