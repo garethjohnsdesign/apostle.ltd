@@ -33,7 +33,7 @@ defaults:
     file: 
     author: 
     thumbnail-image: 
-url: https://www.apostle.studio
+url: https://www.apostle.ltd
 description: Our purpose as a consultancy is to help brands and people discover what drives them and use it to inform everything they do.
 permalink: pretty
 exclude:
@@ -60,9 +60,9 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
-colophon: http://www.garethjohnsdesign.com
+colophon: https://www.garethjohnsdesign.com
 company: Apostle
-email: info@apostle.studio
+email: info@apostle.ltd
 analytics: 
 logo: "/assets/img/logo.svg"
 per_page: 12

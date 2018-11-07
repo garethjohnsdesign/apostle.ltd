@@ -1,17 +1,20 @@
+{% unless page.layout == 'home' %}
+<div class="grid-x grid-padding-x padding-top-2 align-center">
+  <div class="shrink cell">
+    <a href="/">
+      <svg class="icon icon-client-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-client-logo"></use></svg>
+    </a>
+  </div>
+</div>
+{% endunless %}
+
 <!-- Header Top -->
 
 {% for entry in site.data.navigation %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
-<div class="grid-x grid-padding-x grid-padding-y align-justify">
+<div class="grid-x grid-padding-x grid-padding-y padding-bottom-2 align-center">
 
-<!--
   <div class="shrink cell">
-      <a href="/"><svg class="icon icon-radio_button_unchecked"><use xlink:href="/assets/icons/symbol-defs.svg#icon-radio_button_unchecked"></use></svg></a>
-  </div>
--->
-  
-<!--
-  <div class="shrink cell show-for-xxlarge">
       <ul class="dropdown menu align-middle" data-dropdown-menu>
         {% for entry in site.data.navigation%}
         {% if entry.url == current_page %}
@@ -35,15 +38,6 @@
         {% endfor %}
       </ul>
   </div>
--->
-  
-<!--
-  <div class="shrink cell">
-    <button class="hamburger hamburger--collapse" data-toggler=".is-active" id="toggle" aria-label="menu" type="button" data-toggle="offCanvas">
-      <svg class="icon icon-add"><use xlink:href="/assets/icons/symbol-defs.svg#icon-add"></use></svg>
-    </button>
-  </div>
--->
 
 </div>
 <!-- End Navigation -->

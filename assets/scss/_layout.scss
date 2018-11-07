@@ -39,12 +39,9 @@ body {
 }
 
 .home { 
-//   background: url(/uploads/background-marble-white.jpg) no-repeat top center fixed; 
-//   background-size: cover;
-/*
-@include links ($white, $primary-color)
-background-color: #252529;
-*/
+  background: url(/uploads/pygmalion-and-galatea.jpg) no-repeat center center; 
+  background-size: cover;
+  @include links ($white, $dark-gray)
 }
 
 
@@ -181,3 +178,7 @@ p {
 
 // X. Offcanvas
 // ---------
+
+.img-circle {
+  border-radius: 50%;
+}

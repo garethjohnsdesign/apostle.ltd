@@ -125,6 +125,13 @@
 		"oAP": "/_layouts/about.html",
 		"oF": 0
 		},
+	"/_layouts/approach.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_layouts/approach.html",
+		"oF": 0
+		},
 	"/_layouts/compress.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -180,84 +187,40 @@
 		"oAP": "/build/_site",
 		"oF": 0
 		},
-	"/_uploads/background-doutone.jpg": {
-		"ft": 16384,
-		"iS": 111890,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/background-doutone.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/_uploads/background-marble-black.jpg": {
-		"ft": 16384,
-		"iS": 67225,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/background-marble-black.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/_uploads/background-marble-white.jpg": {
-		"ft": 16384,
-		"iS": 413698,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/background-marble-white.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/background-marble.jpg": {
-		"ft": 16384,
-		"iS": 365905,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/background-marble.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/background.jpg": {
-		"ft": 16384,
-		"iS": 222536,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/background.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/_uploads/callum-towler.jpg": {
 		"ft": 16384,
-		"iS": 67173,
+		"iS": 213323,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/callum-towler.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/owen-black.jpg": {
 		"ft": 16384,
-		"iS": 60280,
+		"iS": 65744,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/owen-black.jpg",
 		"oF": 0,
 		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/pygmalion-and-galatea.jpg": {
+		"ft": 16384,
+		"iS": 1552068,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/pygmalion-and-galatea.jpg",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"/about.md": {
+	"/approach.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -266,8 +229,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/about.md",
-		"oF": 1,
+		"oAP": "/approach.md",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -287,7 +250,7 @@
 		},
 	"/assets/favicons/android-chrome-192x192.png": {
 		"ft": 32768,
-		"iS": 2791,
+		"iS": 2570,
 		"oA": 0,
 		"oAP": "/assets/favicons/android-chrome-192x192.png",
 		"oF": 0,
@@ -298,7 +261,7 @@
 		},
 	"/assets/favicons/android-chrome-512x512.png": {
 		"ft": 32768,
-		"iS": 6449,
+		"iS": 7421,
 		"oA": 0,
 		"oAP": "/assets/favicons/android-chrome-512x512.png",
 		"oF": 0,
@@ -309,7 +272,7 @@
 		},
 	"/assets/favicons/apple-touch-icon.png": {
 		"ft": 32768,
-		"iS": 2829,
+		"iS": 1211,
 		"oA": 0,
 		"oAP": "/assets/favicons/apple-touch-icon.png",
 		"oF": 0,
@@ -327,7 +290,7 @@
 		},
 	"/assets/favicons/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 973,
+		"iS": 546,
 		"oA": 0,
 		"oAP": "/assets/favicons/favicon-16x16.png",
 		"oF": 0,
@@ -338,7 +301,7 @@
 		},
 	"/assets/favicons/favicon-32x32.png": {
 		"ft": 32768,
-		"iS": 1410,
+		"iS": 664,
 		"oA": 0,
 		"oAP": "/assets/favicons/favicon-32x32.png",
 		"oF": 0,
@@ -356,7 +319,7 @@
 		},
 	"/assets/favicons/mstile-150x150.png": {
 		"ft": 32768,
-		"iS": 3401,
+		"iS": 1678,
 		"oA": 0,
 		"oAP": "/assets/favicons/mstile-150x150.png",
 		"oF": 0,
@@ -436,8 +399,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/og-image.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},

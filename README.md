@@ -1,6 +1,6 @@
 # Apostle
 
-Site for Apostle. Please go to [www.apostle.com](https://www.apostle.studio) in case you want to take a look at the website.
+Site for Apostle. Please go to [www.apostle.ltd](https://www.apostle.ltd) in case you want to take a look at the website.
 
 * * *
 
