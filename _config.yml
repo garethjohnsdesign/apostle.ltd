@@ -4,7 +4,7 @@ timezone: UTC
 collections:
   posts:
     title: Posts
-    output: false
+    output: true
   team:
     title: Team
     output: false
@@ -34,7 +34,8 @@ defaults:
     author: 
     thumbnail-image: 
 url: https://www.apostle.ltd
-description: Our purpose as a consultancy is to help brands and people discover what drives them and use it to inform everything they do.
+description: Our purpose as a consultancy is to help brands and people discover what
+  drives them and use it to inform everything they do.
 permalink: pretty
 exclude:
 - bower.json
