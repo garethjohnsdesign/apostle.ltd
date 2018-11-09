@@ -1,0 +1,22 @@
+<footer>
+
+    <div class="grid-x grid-padding-x grid-padding-y padding-top-2 align-center">
+<!--
+      <div class="shrink cell">
+      <ul class="menu">
+      <li><a href="/about/">©</a></li>
+      </ul>
+      </div>
+-->
+
+
+    <div class="shrink cell">
+      <ul class="menu">
+      {% for item in site.social %}  
+      <li><a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
+      {% endfor %}
+      </ul>
+    </div>
+
+</footer>
+<!-- End Footer -->

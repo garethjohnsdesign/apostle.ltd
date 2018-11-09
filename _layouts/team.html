@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="grid-container">
+  
+  <div class="grid-x grid-padding-x grid-padding-y margin-bottom-2">
+    <div class="small-12 cell text-center" data-aos="fade-in">
+    <h5>{{page.content}}</h5>
+    </div>
+  </div>
+  
+  <div class="grid-x grid-padding-x padding-3 small-up-1 medium-up-2">
+    {% for person in page.people %}
+  	<div class="cell text-center" data-aos="fade-in">
+      <img src="{{ person.image }}" class="img-circle margin-bottom-1 padding-3" alt="{{person.name}}">
+      <h5 class="secondary-color">{{person.name}}<h5>
+      <p>{{person.role}}</p>
+  	</div>
+  	{% endfor %}
+  </div>
+  
+</div>
