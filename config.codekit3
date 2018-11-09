@@ -181,12 +181,6 @@
 		"oAP": "/_layouts/team.html",
 		"oF": 0
 		},
-	"/_site": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/_site",
-		"oF": 0
-		},
 	"/_uploads/callum-towler.jpg": {
 		"ft": 16384,
 		"iS": 67173,
@@ -8379,13 +8373,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"/Gemfile": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/Gemfile",
-		"oF": 0
 		},
 	"/Gemfile.lock": {
 		"cB": 0,
