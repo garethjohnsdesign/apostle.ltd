@@ -10,7 +10,9 @@ details:
 - title: Press + Media
   text: "[press@apostle.ltd](mailto:press@apostle.ltd)"
 - title: Follow Us
-  text: "[Instagram](https://www.instagram.com/apostleltd)  \n[Twitter](https://twitter.com/apostleltd)"
+  text: |-
+    [Instagram](https://www.instagram.com/apostleltd)\
+    [Twitter](https://twitter.com/apostleltd)
 - title: Collaborators
   text: We enjoy great working relationships with some hugely talented creative specialists.
     We’re always looking to meet new interesting people, so to arrange a chat, please
