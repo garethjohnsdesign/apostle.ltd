@@ -187,17 +187,6 @@
 		"oAP": "/build/_site",
 		"oF": 0
 		},
-	"/_uploads/background-marble-black.jpg": {
-		"ft": 16384,
-		"iS": 141510,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/background-marble-black.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/_uploads/callum-towler.jpg": {
 		"ft": 16384,
 		"iS": 67173,
@@ -354,20 +343,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/assets/favicons/site.webmanifest",
-		"oF": 0
-		},
-	"/assets/fonts/brandon-medium.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/brandon-medium.woff",
-		"oF": 0
-		},
-	"/assets/fonts/brandon-medium.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/brandon-medium.woff2",
 		"oF": 0
 		},
 	"/assets/fonts/futura-std-book.woff": {
