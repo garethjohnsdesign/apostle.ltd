@@ -20,6 +20,8 @@ details:
 - title: Legal
   text: "Apostle Ltd  \n202 Northolt Road  \nSouth Harrow  \nMiddlesex HA2 0EX  \nUnited
     Kingdom"
+- title: Internships
+  text: We don't do internships
 layout: contact
 ---
 
