@@ -11,28 +11,6 @@ collections:
   uploads:
     title: Uploads
     output: false
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    feature-image: 
-    author: 
-    layout: post
-    permalink: "/news/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    intro: 
-    layout: page
-- scope:
-    path: ''
-    type: resources
-  values:
-    file: 
-    author: 
-    thumbnail-image: 
 url: https://www.apostle.ltd
 description: Our purpose as a consultancy is to help brands and people discover what
   drives them and use it to inform everything they do.
