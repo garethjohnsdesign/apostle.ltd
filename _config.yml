@@ -64,7 +64,7 @@ highlighter: rouge
 colophon: https://www.garethjohnsdesign.com
 company: Apostle
 email: info@apostle.ltd
-analytics: 
+analytics: UA-129015434-1
 logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%b %Y"
