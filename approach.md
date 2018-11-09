@@ -17,6 +17,6 @@ We show how brand purpose can be used as an asset across every consumer touch-po
 ##### Creative briefs
 We solve real-world business problems by acting on brand purpose.
 
-#### Artists.
+#### Artists
 
 Nothing is more important to an artist than what they create next. Apostle helps them get there. We work with musicians, fashion designers and artists of all disciplines to fuel their creativity and inspire their next great work.
