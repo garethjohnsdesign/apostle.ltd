@@ -10,7 +10,9 @@ details:
 - title: Press + Media
   text: "[press@apostle.ltd](mailto:press@apostle.ltd)"
 - title: Follow Us
-  text: "[Instagram](https://www.instagram.com/apostleltd)  \n[Twitter](https://twitter.com/apostleltd)"
+  text: |-
+    [Instagram](https://www.instagram.com/apostleltd)\
+    [Twitter](https://twitter.com/apostleltd)
 - title: Collaborators
   text: We enjoy great working relationships with some hugely talented creative specialists.
     We’re always looking to meet new interesting people, so to arrange a chat, please
@@ -18,6 +20,8 @@ details:
 - title: Legal
   text: "Apostle Ltd  \n202 Northolt Road  \nSouth Harrow  \nMiddlesex HA2 0EX  \nUnited
     Kingdom"
+- title: Internships
+  text: We don't do internships
 layout: contact
 ---
 
