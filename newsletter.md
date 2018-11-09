@@ -1,6 +1,6 @@
 ---
 title: Newsletter
-position: 5
+position: 4
 layout: newsletter
 ---
 
