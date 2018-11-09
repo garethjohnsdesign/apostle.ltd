@@ -187,9 +187,20 @@
 		"oAP": "/build/_site",
 		"oF": 0
 		},
+	"/_uploads/background-marble-black.jpg": {
+		"ft": 16384,
+		"iS": 141510,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/background-marble-black.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/callum-towler.jpg": {
 		"ft": 16384,
-		"iS": 213323,
+		"iS": 67173,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/callum-towler.jpg",
@@ -200,7 +211,7 @@
 		},
 	"/_uploads/owen-black.jpg": {
 		"ft": 16384,
-		"iS": 65744,
+		"iS": 60280,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/owen-black.jpg",
@@ -250,7 +261,7 @@
 		},
 	"/assets/favicons/android-chrome-192x192.png": {
 		"ft": 32768,
-		"iS": 2570,
+		"iS": 2791,
 		"oA": 0,
 		"oAP": "/assets/favicons/android-chrome-192x192.png",
 		"oF": 0,
@@ -261,7 +272,7 @@
 		},
 	"/assets/favicons/android-chrome-512x512.png": {
 		"ft": 32768,
-		"iS": 7421,
+		"iS": 6449,
 		"oA": 0,
 		"oAP": "/assets/favicons/android-chrome-512x512.png",
 		"oF": 0,
@@ -272,7 +283,7 @@
 		},
 	"/assets/favicons/apple-touch-icon.png": {
 		"ft": 32768,
-		"iS": 1211,
+		"iS": 2829,
 		"oA": 0,
 		"oAP": "/assets/favicons/apple-touch-icon.png",
 		"oF": 0,
@@ -290,7 +301,7 @@
 		},
 	"/assets/favicons/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 546,
+		"iS": 973,
 		"oA": 0,
 		"oAP": "/assets/favicons/favicon-16x16.png",
 		"oF": 0,
@@ -301,7 +312,7 @@
 		},
 	"/assets/favicons/favicon-32x32.png": {
 		"ft": 32768,
-		"iS": 664,
+		"iS": 1410,
 		"oA": 0,
 		"oAP": "/assets/favicons/favicon-32x32.png",
 		"oF": 0,
@@ -319,7 +330,7 @@
 		},
 	"/assets/favicons/mstile-150x150.png": {
 		"ft": 32768,
-		"iS": 1678,
+		"iS": 3401,
 		"oA": 0,
 		"oAP": "/assets/favicons/mstile-150x150.png",
 		"oF": 0,
@@ -343,6 +354,20 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/assets/favicons/site.webmanifest",
+		"oF": 0
+		},
+	"/assets/fonts/brandon-medium.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/brandon-medium.woff",
+		"oF": 0
+		},
+	"/assets/fonts/brandon-medium.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/brandon-medium.woff2",
 		"oF": 0
 		},
 	"/assets/fonts/futura-std-book.woff": {
