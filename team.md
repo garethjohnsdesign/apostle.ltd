@@ -1,6 +1,6 @@
 ---
 title: Team
-position: 4
+position: 3
 people:
 - image: "/uploads/callum-towler.jpg"
   name: Callum Towler

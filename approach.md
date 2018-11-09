@@ -1,6 +1,6 @@
 ---
 title: Approach
-position: 5
+position: 1
 layout: approach
 ---
 
